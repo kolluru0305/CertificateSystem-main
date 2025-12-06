@@ -1,0 +1,14 @@
+.side {
+  width:220px;
+  background:#fff;
+  border-right:1px solid #eef2f7;
+  padding:18px;
+  height:calc(100vh - 64px);
+  position:fixed;
+  top:64px;
+  left:0;
+  overflow:auto;
+}
+.nav { margin-top:16px; display:flex; flex-direction:column; gap:10px; }
+.nav a { padding:8px 10px; border-radius:6px; color:#374151; }
+.nav a:hover { background:#f3f4f6; }

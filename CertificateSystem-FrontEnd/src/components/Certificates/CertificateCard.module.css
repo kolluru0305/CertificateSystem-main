@@ -1,0 +1,14 @@
+.card {
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  padding:12px;
+  border-radius:10px;
+  background:#fff;
+  margin:8px 0;
+  box-shadow:0 4px 14px rgba(2,6,23,0.04);
+}
+.title { font-weight:600; margin-bottom:6px; }
+.small { font-size:13px; color:var(--muted); }
+.actions { display:flex; gap:8px; }
+.link { padding:8px 10px; border-radius:8px; border:1px solid #e6e8f0; }

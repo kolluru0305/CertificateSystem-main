@@ -1,0 +1,6 @@
+.app {
+  font-family: Inter, Roboto, system-ui, -apple-system, "Segoe UI", "Helvetica Neue", Arial;
+  min-height: 100vh;
+  background: #f5f7fb;
+  color: #111827;
+}

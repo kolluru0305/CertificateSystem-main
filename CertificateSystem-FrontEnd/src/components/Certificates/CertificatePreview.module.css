@@ -1,0 +1,15 @@
+.preview { display:flex; justify-content:center; padding:24px; }
+.box {
+  width:820px;
+  max-width:100%;
+  padding:28px;
+  background:linear-gradient(180deg,#fff,#f7fbff);
+  border-radius:10px;
+  border:1px solid #e6eefc;
+  text-align:center;
+}
+.heading { margin:6px 0 12px 0; color:var(--primary); }
+.text { margin:8px 0; font-size:18px; color:#0f1724; }
+.period { margin-top:14px; color:var(--muted); }
+.id { margin-top:18px; font-size:13px; color:#475569; }
+.empty { color:var(--muted); padding:20px; text-align:center; }

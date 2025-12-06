@@ -1,0 +1,2 @@
+.wrap { max-width:720px; margin:22px auto; padding:18px; background:#fff; border-radius:10px; box-shadow:0 6px 18px rgba(2,6,23,0.04); }
+.note { color: var(--muted); font-size:13px; margin-top:8px; }
